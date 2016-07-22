@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-
+//ok ok
     class CommunicationThread implements Runnable {
 
         private Socket clientSocket;
